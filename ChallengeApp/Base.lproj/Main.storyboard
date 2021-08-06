@@ -16,52 +16,52 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Matte Powder Foundation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KJS-pt-XcR">
-                                <rect key="frame" x="20" y="483" width="233" height="25"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Matte Powder Foundation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KJS-pt-XcR">
+                                <rect key="frame" x="20" y="482.5" width="233" height="25"/>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="20"/>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stay in Place Liquid  Foundation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RyV-lw-GBa">
-                                <rect key="frame" x="20" y="88" width="299" height="25"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="Stay in Place Liquid  Foundation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RyV-lw-GBa">
+                                <rect key="frame" x="20" y="87.5" width="299" height="25"/>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="20"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="EL_12" translatesAutoresizingMaskIntoConstraints="NO" id="LqF-PB-Iq3">
-                                <rect key="frame" x="20" y="128" width="200" height="200"/>
+                                <rect key="frame" x="20" y="127.5" width="200" height="200"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="5nd-6S-8Vb"/>
                                     <constraint firstAttribute="height" constant="200" id="xtq-hC-onj"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ESTÉE LAUDER" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DCw-1E-U1I">
-                                <rect key="frame" x="84.5" y="20" width="245" height="38"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="751" text="ESTÉE LAUDER" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DCw-1E-U1I">
+                                <rect key="frame" x="84.5" y="20" width="245" height="37.5"/>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="30"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="EL_5" translatesAutoresizingMaskIntoConstraints="NO" id="cz7-xF-25q">
-                                <rect key="frame" x="20" y="523" width="200" height="200"/>
+                                <rect key="frame" x="20" y="522.5" width="200" height="200"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="200" id="Bvb-mg-3rh"/>
                                     <constraint firstAttribute="width" constant="200" id="pIh-aP-Sxp"/>
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="24-hour wear" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PIO-Si-3vA">
-                                <rect key="frame" x="20" y="348" width="102" height="22"/>
+                                <rect key="frame" x="20" y="347.5" width="102" height="22"/>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Matte finish" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xda-ci-H8y">
-                                <rect key="frame" x="20" y="741" width="91" height="22"/>
+                                <rect key="frame" x="20" y="740.5" width="91" height="22"/>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ssv-9a-hho">
-                                <rect key="frame" x="20" y="770" width="249" height="22"/>
+                                <rect key="frame" x="20" y="769.5" width="249" height="23"/>
                                 <string key="text">Non-acnegenic; won't clog pores
 
 </string>
@@ -69,8 +69,8 @@
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9s4-ql-hit">
-                                <rect key="frame" x="20" y="799" width="380" height="22"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9s4-ql-hit">
+                                <rect key="frame" x="20" y="799.5" width="380" height="21.5"/>
                                 <string key="text">Versatile powder to wear as foundation, or over it.
 
 </string>
@@ -79,7 +79,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gHo-AZ-OfT">
-                                <rect key="frame" x="228" y="685" width="132" height="38"/>
+                                <rect key="frame" x="228" y="684.5" width="132" height="38"/>
                                 <color key="backgroundColor" red="0.57874745130000005" green="0.32151988149999999" blue="0.0" alpha="0.36341059599999997" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name="Didot-Bold" family="Didot" pointSize="20"/>
                                 <state key="normal" title="Purchase Now">
@@ -95,7 +95,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dCg-1L-XKz">
-                                <rect key="frame" x="20" y="377" width="177" height="22"/>
+                                <rect key="frame" x="20" y="376.5" width="177" height="22"/>
                                 <string key="text">Waterproof foundation
 </string>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="17"/>
@@ -103,7 +103,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ymr-Vx-c1b">
-                                <rect key="frame" x="20" y="406" width="216" height="22"/>
+                                <rect key="frame" x="20" y="405.5" width="216" height="22"/>
                                 <string key="text">Sweat- &amp; humidity-resistant
 </string>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="17"/>
@@ -111,16 +111,15 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aAX-JL-Ttq">
-                                <rect key="frame" x="20" y="435" width="249" height="22"/>
+                                <rect key="frame" x="20" y="434.5" width="249" height="22"/>
                                 <string key="text">Non-acnegenic; won’t clog pores
 </string>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="17"/>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wgi-al-S3m">
-                                <rect key="frame" x="228" y="290" width="132" height="38"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wgi-al-S3m">
+                                <rect key="frame" x="228" y="289.5" width="132" height="38"/>
                                 <color key="backgroundColor" red="0.57874745130000005" green="0.32151988149999999" blue="0.0" alpha="0.36341059599999997" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name="Didot-Bold" family="Didot" pointSize="20"/>
                                 <state key="normal" title="Purchase Now">
@@ -147,19 +146,33 @@
                             <constraint firstItem="DCw-1E-U1I" firstAttribute="top" secondItem="lCw-oe-9LK" secondAttribute="top" constant="20" id="CUH-GZ-DRF"/>
                             <constraint firstItem="PIO-Si-3vA" firstAttribute="top" secondItem="LqF-PB-Iq3" secondAttribute="bottom" constant="20" id="DAl-J0-Is2"/>
                             <constraint firstItem="RyV-lw-GBa" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="FE7-Dg-New"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Ssv-9a-hho" secondAttribute="trailing" symbolic="YES" id="GDC-5b-FuN"/>
                             <constraint firstItem="DCw-1E-U1I" firstAttribute="centerX" secondItem="lQg-8l-l9T" secondAttribute="centerX" id="GR9-vH-CX2"/>
                             <constraint firstItem="9s4-ql-hit" firstAttribute="top" secondItem="Ssv-9a-hho" secondAttribute="bottom" constant="7" id="H8D-YN-1G3"/>
-                            <constraint firstItem="gHo-AZ-OfT" firstAttribute="leading" secondItem="cz7-xF-25q" secondAttribute="trailing" constant="8" id="KaI-qZ-APS"/>
+                            <constraint firstItem="gHo-AZ-OfT" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="cz7-xF-25q" secondAttribute="trailing" symbolic="YES" id="KaI-qZ-APS"/>
                             <constraint firstItem="LqF-PB-Iq3" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="NuL-IB-3sn"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" secondItem="gHo-AZ-OfT" secondAttribute="trailing" constant="54" id="O62-1I-tU6"/>
                             <constraint firstItem="ymr-Vx-c1b" firstAttribute="top" secondItem="dCg-1L-XKz" secondAttribute="bottom" constant="7" id="OfP-m9-uE6"/>
-                            <constraint firstItem="9s4-ql-hit" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="Qjz-az-hac"/>
+                            <constraint firstItem="wgi-al-S3m" firstAttribute="bottom" secondItem="LqF-PB-Iq3" secondAttribute="bottom" id="PXx-Tf-eM2"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="RyV-lw-GBa" secondAttribute="trailing" symbolic="YES" id="PzU-XW-yuA"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Xda-ci-H8y" secondAttribute="trailing" symbolic="YES" id="Q1x-UM-Ouj"/>
+                            <constraint firstItem="9s4-ql-hit" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="lCw-oe-9LK" secondAttribute="leading" id="Qjz-az-hac"/>
                             <constraint firstItem="Xda-ci-H8y" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="Rnb-4p-chG"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="ymr-Vx-c1b" secondAttribute="trailing" symbolic="YES" id="Tcy-Fi-Xso"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" secondItem="wgi-al-S3m" secondAttribute="trailing" constant="54" id="UW7-R5-29U"/>
                             <constraint firstItem="Xda-ci-H8y" firstAttribute="top" secondItem="cz7-xF-25q" secondAttribute="bottom" constant="18" id="Wqh-ng-jfp"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="PIO-Si-3vA" secondAttribute="trailing" symbolic="YES" id="ZCL-LI-faP"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" secondItem="9s4-ql-hit" secondAttribute="trailing" constant="14" id="ZEW-XU-Fbd"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="KJS-pt-XcR" secondAttribute="trailing" symbolic="YES" id="aA6-4S-xTK"/>
                             <constraint firstItem="KJS-pt-XcR" firstAttribute="top" secondItem="LqF-PB-Iq3" secondAttribute="bottom" constant="155" id="akw-Ck-bHQ"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="aAX-JL-Ttq" secondAttribute="trailing" symbolic="YES" id="avx-gI-CsF"/>
                             <constraint firstItem="aAX-JL-Ttq" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="c9w-NH-YsG"/>
                             <constraint firstItem="PIO-Si-3vA" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="cvZ-ub-fiz"/>
                             <constraint firstItem="cz7-xF-25q" firstAttribute="leading" secondItem="lCw-oe-9LK" secondAttribute="leading" constant="20" id="dNN-To-I1t"/>
+                            <constraint firstItem="wgi-al-S3m" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="gHo-AZ-OfT" secondAttribute="leading" id="gt0-1b-hj0"/>
+                            <constraint firstItem="lCw-oe-9LK" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="dCg-1L-XKz" secondAttribute="trailing" symbolic="YES" id="iSa-CW-wyR"/>
                             <constraint firstItem="RyV-lw-GBa" firstAttribute="top" secondItem="DCw-1E-U1I" secondAttribute="bottom" constant="30" id="pUK-Rn-kY2"/>
+                            <constraint firstAttribute="bottom" secondItem="9s4-ql-hit" secondAttribute="bottom" constant="21" id="qim-iu-2KW"/>
                             <constraint firstItem="dCg-1L-XKz" firstAttribute="top" secondItem="PIO-Si-3vA" secondAttribute="bottom" constant="7" id="rP6-AO-CeI"/>
                             <constraint firstItem="Ssv-9a-hho" firstAttribute="top" secondItem="gHo-AZ-OfT" secondAttribute="bottom" constant="47" id="sQW-RY-id2"/>
                             <constraint firstItem="aAX-JL-Ttq" firstAttribute="top" secondItem="ymr-Vx-c1b" secondAttribute="bottom" constant="7" id="tqw-I8-5Ul"/>
@@ -254,11 +267,8 @@
                                                 </constraints>
                                             </imageView>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RNH-Na-yIN">
-                                                <rect key="frame" x="87" y="887" width="240" height="38"/>
+                                                <rect key="frame" x="91" y="887" width="232" height="38"/>
                                                 <color key="backgroundColor" red="0.57874745130000005" green="0.32151988149999999" blue="0.0" alpha="0.36341059602649006" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <constraints>
-                                                    <constraint firstAttribute="width" constant="240" id="a2p-Ks-odx"/>
-                                                </constraints>
                                                 <fontDescription key="fontDescription" name="Didot-Bold" family="Didot" pointSize="20"/>
                                                 <state key="normal" title="Find Your Perfect Shade">
                                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -336,6 +346,7 @@
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="x8E-sG-koK" firstAttribute="top" secondItem="3hk-WS-JSI" secondAttribute="bottom" constant="38" id="1O2-ig-VM9"/>
+                                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="wYa-gQ-4BQ" secondAttribute="trailing" constant="20" symbolic="YES" id="3Pb-Xu-5qk"/>
                                             <constraint firstItem="OYk-Ce-GTX" firstAttribute="leading" secondItem="Dxg-QI-gJP" secondAttribute="leading" constant="30" id="5HD-nZ-25s"/>
                                             <constraint firstItem="tl4-QI-T1C" firstAttribute="leading" secondItem="x8E-sG-koK" secondAttribute="trailing" constant="14" id="ADt-z7-V51"/>
                                             <constraint firstItem="x3S-6J-dbf" firstAttribute="top" secondItem="DpB-PL-d1w" secondAttribute="bottom" constant="19" id="B9s-ae-wfp"/>
@@ -344,6 +355,7 @@
                                             <constraint firstItem="wYa-gQ-4BQ" firstAttribute="leading" secondItem="Dxg-QI-gJP" secondAttribute="leading" constant="30" id="EkG-gg-sTZ"/>
                                             <constraint firstItem="G39-lg-oCO" firstAttribute="centerX" secondItem="Dxg-QI-gJP" secondAttribute="centerX" id="Ing-Yo-VTM"/>
                                             <constraint firstItem="9rh-08-vxT" firstAttribute="leading" secondItem="DpB-PL-d1w" secondAttribute="trailing" constant="8" id="JV6-06-vet"/>
+                                            <constraint firstItem="3hk-WS-JSI" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Dxg-QI-gJP" secondAttribute="leading" constant="20" symbolic="YES" id="KBs-dV-3Od"/>
                                             <constraint firstAttribute="trailing" secondItem="3hk-WS-JSI" secondAttribute="trailing" constant="30" id="KeO-YQ-95Q"/>
                                             <constraint firstItem="9rh-08-vxT" firstAttribute="top" secondItem="LdB-L3-a7O" secondAttribute="bottom" constant="22" id="KpA-F2-2C8"/>
                                             <constraint firstItem="83n-25-cKr" firstAttribute="top" secondItem="tl4-QI-T1C" secondAttribute="bottom" constant="14" id="Mox-j0-4da"/>
@@ -361,6 +373,7 @@
                                             <constraint firstItem="aqt-Od-7vM" firstAttribute="leading" secondItem="Dxg-QI-gJP" secondAttribute="leading" constant="30" id="aSj-Rk-16f"/>
                                             <constraint firstItem="3hk-WS-JSI" firstAttribute="top" secondItem="ruv-rz-AV5" secondAttribute="bottom" constant="30" id="ami-ZT-GV0"/>
                                             <constraint firstItem="ruv-rz-AV5" firstAttribute="leading" secondItem="Dxg-QI-gJP" secondAttribute="leading" constant="30" id="c0L-9C-zC4"/>
+                                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="ruv-rz-AV5" secondAttribute="trailing" constant="20" symbolic="YES" id="c0b-Wi-Avv"/>
                                             <constraint firstItem="tl4-QI-T1C" firstAttribute="top" secondItem="3hk-WS-JSI" secondAttribute="bottom" constant="38" id="cSH-m7-s8C"/>
                                             <constraint firstItem="KKy-TR-lOe" firstAttribute="centerX" secondItem="Dxg-QI-gJP" secondAttribute="centerX" id="hhB-TW-5sM"/>
                                             <constraint firstAttribute="trailing" secondItem="OYk-Ce-GTX" secondAttribute="trailing" constant="30" id="l7F-22-fO9"/>
@@ -453,7 +466,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <segue destination="mSs-Pc-bAk" kind="modal" id="IAc-1s-1xs"/>
+                                                    <segue destination="mSs-Pc-bAk" kind="presentation" id="IAc-1s-1xs"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="254" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X1z-Kh-QkH">
@@ -686,7 +699,6 @@
                                 <rect key="frame" x="133" y="347" width="148" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="OKb-UH-Hcn"/>
-                                    <constraint firstAttribute="width" constant="148" id="svC-Bl-Udw"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="24"/>
                                 <nil key="textColor"/>
@@ -722,7 +734,6 @@
                             <constraint firstItem="Cd7-D2-lw6" firstAttribute="centerX" secondItem="MCA-mZ-eeb" secondAttribute="centerX" id="SLH-du-gte"/>
                             <constraint firstItem="4ap-9S-KR6" firstAttribute="top" secondItem="nzh-5H-F5s" secondAttribute="bottom" constant="40" id="Vf9-o7-biM"/>
                             <constraint firstItem="fDk-Rd-0jH" firstAttribute="top" secondItem="4ap-9S-KR6" secondAttribute="bottom" constant="40" id="gND-FK-1mU"/>
-                            <constraint firstItem="Yoz-gL-mR1" firstAttribute="trailing" secondItem="nzh-5H-F5s" secondAttribute="trailing" constant="20" id="gd6-im-aXK"/>
                             <constraint firstItem="4ap-9S-KR6" firstAttribute="centerX" secondItem="MCA-mZ-eeb" secondAttribute="centerX" id="i3W-aN-6NO"/>
                             <constraint firstItem="nzh-5H-F5s" firstAttribute="top" secondItem="Cd7-D2-lw6" secondAttribute="bottom" constant="20" id="nH4-vi-ly7"/>
                             <constraint firstItem="nzh-5H-F5s" firstAttribute="leading" secondItem="Yoz-gL-mR1" secondAttribute="leading" constant="20" id="nR2-bz-UHG"/>
